@@ -1,2 +1,2 @@
 # Algorithms
-Icahn School of Medicine at Mount Sinai assignments and labs for BMI-2005 
+Icahn School of Medicine at Mount Sinai homework assignments and labs for BMI-2005 
